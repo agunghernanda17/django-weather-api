@@ -1,6 +1,6 @@
 Django weather api is an application to display the weather of a city
 
-This app using request and API to get the information of the city that we want to display on app
+##This app using request and API to get the information of the city that we want to display on app  
 https://openweathermap.org/api
 
 Screenshot of App
